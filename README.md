@@ -1,5 +1,12 @@
 # AI Insurance Risk Prediction
 
+## 📄 Publication
+
+This project was presented at the **University of Northern Iowa INSPIRE Student Research and Engagement Conference** and is archived in **UNI ScholarWorks**.
+
+**Read the publication here:**  
+[https://YOUR-SCHOLARWORKS-LINK](http://scholarworks.uni.edu/csbsresearchconf)
+
 ## Overview
 
 This project explores the use of machine learning models to improve insurance risk prediction. It was completed as undergraduate research at the University of Northern Iowa and presented at the INSPIRE Student Research and Engagement Conference.
